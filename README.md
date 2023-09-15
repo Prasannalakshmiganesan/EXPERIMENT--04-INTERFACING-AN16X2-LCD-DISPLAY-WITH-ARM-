@@ -173,6 +173,10 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+```
+Developed by : Prasannalakshmi G
+Reg No : 212222240075
+```
 ```c
   #include "main.h"
   #include "lcd.h"
